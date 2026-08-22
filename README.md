@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Jyoshith Sai 👋</h1>
-<h3 align="center">AI/ML Engineer | Full-Stack Developer | B.Tech AI/ML Student</h3>
+<h1 align="center">Hi there, I'm GLVN Jyoshith Sai 👋</h1>
+<h3 align="center">AI/ML Engineer | Full-Stack Developer | Machine Learning | B.Tech AI/ML Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+AI%2FML+Projects;Full-Stack+Web+Developer;Always+Learning+Something+New;Open+to+Opportunities!" alt="Typing SVG" />
