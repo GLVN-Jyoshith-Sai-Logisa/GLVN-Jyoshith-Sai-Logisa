@@ -198,49 +198,15 @@ Hi! I'm **GLVN Jyoshith Sai**, a passionate **B.Tech Artificial Intelligence & M
 
 ### 📚 Library Management System
 
-A Flask-based web application designed to manage books and library records efficiently.
+A Flask-based web application designed to manage books and library records efficiently, providing a simple interface for organizing and maintaining library information.
 
-**Features:**
-
-📖 Search books
-
-➕ Add books
-
-✏️ Edit books
-
-🗑️ Delete books
-
-🔄 Issue & return tracking
-
-🎓 Student record management
-
-**Tech Stack:** Python • Flask • SQLite • HTML • CSS
-
-🔗 **Repository:** https://github.com/GLVN-Jyoshith-Sai-Logisa/library-management-system
-
----
+🔗 https://github.com/GLVN-Jyoshith-Sai-Logisa/library-management-system
 
 ### 🎓 Student Management System
 
-A simple and functional web application for managing student records.
+A simple and functional web application designed to manage student records efficiently with an easy-to-use interface.
 
-**Features:**
-
-➕ Add students
-
-✏️ Update records
-
-🗑️ Delete records
-
-🔎 Search students
-
-🔢 Search by roll number
-
-📋 Manage student information
-
-**Tech Stack:** Python • Flask • SQLite • HTML • CSS
-
-🔗 **Repository:** https://github.com/GLVN-Jyoshith-Sai-Logisa/student-management-system
+🔗 https://github.com/GLVN-Jyoshith-Sai-Logisa/student-management-system
 
 ---
 
@@ -276,7 +242,11 @@ A simple and functional web application for managing student records.
 
 <p align="center">
 
-🔥 <b>Current Streak</b> • 📈 <b>Total Contributions</b> • 🏆 <b>Longest Streak</b>
+🔥 <b>Current Streak</b>
+&nbsp; • &nbsp;
+📈 <b>Total Contributions</b>
+&nbsp; • &nbsp;
+🏆 <b>Longest Streak</b>
 
 </p>
 
@@ -285,21 +255,28 @@ A simple and functional web application for managing student records.
 ## 🧠 MOST USED LANGUAGES
 
 ### 🐍 Python
-AI / ML • Data Analysis • Backend Development • Automation
+
+AI/ML • Data Analysis • Backend Development • Automation
 
 ### ⚡ JavaScript
+
 Web Development • Frontend Logic • Interactive Applications
 
 ### 🌐 HTML
+
 Web Structure • Application Interfaces
 
 ### 🎨 CSS
+
 UI Design • Layout • Responsive Web Design
 
 ### 🗄️ SQL
+
 Database Management • Queries • Data Handling
 
-### 📌 DEVELOPMENT FOCUS
+---
+
+## 📌 DEVELOPMENT FOCUS
 
 🐍 **Python** → AI/ML + Data + Backend
 
@@ -317,7 +294,7 @@ Database Management • Queries • Data Handling
 
 ---
 
-## 🎯 2026 GOALS
+## 🎯 GOALS
 
 🚀 Build more real-world AI/ML projects
 
@@ -406,30 +383,6 @@ Database Management • Queries • Data Handling
 > 📚 **Stay curious and keep learning.**
 
 > 🌱 **Improve a little every day.**
-
----
-
-## 🌐 CONNECT WITH ME
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/logisa-glvn-jyoshithsai">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://x.com/GLVNJYOSHITHSAI">
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
-<a href="mailto:logisajyoshithsai@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://joshaiml.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-</p>
 
 ---
 
