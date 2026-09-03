@@ -388,13 +388,14 @@ Database Management • Queries • Data Handling
 
 <div align="center">
 
-## 🚀 LEARN • BUILD • EXPERIMENT • IMPROVE
+## ✨ BEFORE YOU GO...
 
-### 🤖 AI is the direction.
-### 💻 Code is the tool.
-### 🧠 Learning is the journey.
-### 🚀 Building is the goal.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+GitHub+profile!+%F0%9F%91%8B;Let's+connect%2C+collaborate%2C+and+build+something+awesome!+%F0%9F%9A%80;Keep+learning.+Keep+building.+Keep+growing.+%F0%9F%8C%B1;See+you+in+the+next+commit!+%F0%9F%92%BB%E2%9C%A8" alt="Animated Thank You Message">
 
-### ⭐ Thanks for visiting my GitHub profile!
+<br><br>
+
+### 🌟 Thanks for being part of the journey.
+
+### 🚀 Until the next idea becomes the next project...
 
 </div>
